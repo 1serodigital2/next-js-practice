@@ -2,7 +2,7 @@
 
 import { saveUserAction } from "@/actions/users";
 
-export default async function ServerActionsDemo() {
+export default function ServerActionsDemo() {
   return (
     <main>
       <div className="rsc">
